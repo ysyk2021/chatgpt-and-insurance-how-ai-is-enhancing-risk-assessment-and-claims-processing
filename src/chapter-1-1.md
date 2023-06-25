@@ -1,4 +1,4 @@
-Introduction: Overview of the Book
+Overview of the Book
 ==================================
 
 In this book, we will explore how artificial intelligence (AI), specifically ChatGPT, is enhancing risk assessment and claims processing in the insurance industry. We will examine the challenges faced by insurers, the impact of these challenges on customer satisfaction, and how AI can help address these challenges.

@@ -1,5 +1,4 @@
-Chapter 5: Implementing ChatGPT in Insurance Industry: Steps to Implement ChatGPT in Insurance Industry
-=======================================================================================================
+# Steps to Implement ChatGPT in Insurance Industry
 
 ChatGPT is a powerful tool for enhancing risk assessment and claims processing in the insurance industry. In this chapter, we will explore the steps involved in implementing ChatGPT in the insurance industry.
 

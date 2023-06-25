@@ -1,5 +1,4 @@
-Chapter 3: The Role of AI and Chatbots in Risk Assessment and Claims Processing: Introduction to AI and Chatbots
-================================================================================================================
+# Introduction to AI and Chatbots
 
 Artificial intelligence (AI) and chatbots are increasingly being used in the insurance industry to enhance risk assessment and claims processing. In this chapter, we will provide an introduction to AI and chatbots and their potential applications in the insurance industry.
 

@@ -1,5 +1,4 @@
-Chapter 4: Understanding ChatGPT: Features and Capabilities of ChatGPT
-======================================================================
+# Features and Capabilities of ChatGPT
 
 ChatGPT is an AI-powered chatbot that can be used to enhance risk assessment and claims processing in the insurance industry. In this chapter, we will explore the features and capabilities of ChatGPT.
 

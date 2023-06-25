@@ -1,5 +1,4 @@
-Chapter 1: Basics of Insurance: Different Types of Insurance
-============================================================
+# Different Types of Insurance
 
 There are many different types of insurance available, each providing financial protection against specific risks. In this chapter, we will explore some of the most common types of insurance.
 
