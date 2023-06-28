@@ -2,13 +2,6 @@
 
 ChatGPT is an advanced language model that can understand natural language and generate responses. It has the potential to revolutionize risk assessment and claims processing in the insurance industry by automating routine tasks, improving accuracy, and providing real-time assistance to customers.
 
-How ChatGPT Works
------------------
-
-ChatGPT is a neural network language model that was developed using deep learning techniques. It was trained on a massive dataset of text from the internet, allowing it to understand and generate natural language responses.
-
-To use ChatGPT for risk assessment and claims processing, insurers can integrate it into their workflows as a chatbot. Customers can interact with the chatbot using natural language, and ChatGPT can provide real-time responses and assistance.
-
 Enhancing Risk Assessment with ChatGPT
 --------------------------------------
 

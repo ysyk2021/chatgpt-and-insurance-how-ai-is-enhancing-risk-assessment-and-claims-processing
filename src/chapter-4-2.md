@@ -2,11 +2,6 @@
 
 Artificial intelligence (AI) and chatbots are rapidly transforming the insurance industry by enabling more accurate, efficient, and consistent risk assessment and claims processing. In this chapter, we will explore the role of AI and chatbots in enhancing these processes.
 
-What is AI?
------------
-
-AI refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. AI technologies such as natural language processing, machine learning, and deep learning are increasingly being used in the insurance industry to improve risk assessment and claims processing.
-
 How Can AI Enhance Risk Assessment?
 -----------------------------------
 
