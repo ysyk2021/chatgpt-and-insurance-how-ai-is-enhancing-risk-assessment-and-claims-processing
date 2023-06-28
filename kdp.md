@@ -21,23 +21,25 @@ By the end of this book, you will have a solid understanding of the latest AI te
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
-1. Artificial intelligence in insurance 
-2. Chatbots and claims processing 
-3. Advancements in risk assessment 
-4. Insurance technology 
-5. Machine learning in insurance 
-6. Claims automation 
-7. Conversational AI and insurance 
-8. Natural language processing and insurance 
-9. Fraud detection with AI 
+
+
+1. Artificial intelligence in insurance
+2. Chatbots and claims processing
+3. Advancements in risk assessment
+4. Insurance technology
+5. Machine learning in insurance
+6. Claims automation
+7. Conversational AI and insurance
+8. Natural language processing and insurance
+9. Fraud detection with AI
 10. Claims management software
-11. Data analytics in insurance 
-12. Underwriting with AI 
-13. Insurance chatbots 
-14. Digital transformation in insurance 
-15. AI-powered claims processing 
-16. ChatGPT for insurance 
-17. Automated risk assessment 
-18. Customer experience in insurance 
-19. Insurtech 
+11. Data analytics in insurance
+12. Underwriting with AI
+13. Insurance chatbots
+14. Digital transformation in insurance
+15. AI-powered claims processing
+16. ChatGPT for insurance
+17. Automated risk assessment
+18. Customer experience in insurance
+19. Insurtech
 20. AI and insurance operations
