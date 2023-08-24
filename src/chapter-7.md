@@ -1,5 +1,3 @@
-Chapter 6: Future of Insurance with ChatGPT
-===========================================
 
 As the insurance industry continues to evolve, AI technologies like ChatGPT are becoming increasingly important. In this chapter, we will explore some potential advancements in the insurance industry that can be achieved with ChatGPT, as well as emerging trends and challenges that insurers must consider.
 

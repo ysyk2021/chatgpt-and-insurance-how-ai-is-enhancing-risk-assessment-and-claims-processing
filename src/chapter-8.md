@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored the potential of ChatGPT to enhance risk assessment and claims processing in insurance through AI. We have discussed the benefits and challenges of using this technology, as well as best practices for its implementation.
 

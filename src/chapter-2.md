@@ -1,5 +1,3 @@
-Chapter 1: Basics of Insurance
-==============================
 
 In this chapter, we will cover the basics of insurance, including its definition, different types of insurance, and its importance for individuals and businesses.
 

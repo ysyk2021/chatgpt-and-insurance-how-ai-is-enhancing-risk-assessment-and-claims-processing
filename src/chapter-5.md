@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore the basics of ChatGPT and its potential applications for enhancing risk assessment and claims processing in the insurance industry.
 

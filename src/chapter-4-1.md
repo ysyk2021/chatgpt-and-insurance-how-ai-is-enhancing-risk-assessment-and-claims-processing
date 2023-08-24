@@ -1,4 +1,3 @@
-# Introduction to AI and Chatbots
 
 In this chapter, we will provide a comprehensive introduction to Artificial Intelligence (AI) and Chatbots, setting the foundation for understanding their application in enhancing risk assessment and claims processing within the insurance industry. We will explore the fundamental concepts, benefits, and potential applications of AI and Chatbots, highlighting their transformative impact on the insurance sector.
 

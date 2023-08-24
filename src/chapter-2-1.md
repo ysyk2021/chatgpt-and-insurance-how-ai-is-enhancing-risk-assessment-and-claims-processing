@@ -1,4 +1,3 @@
-# Definition of Insurance
 
 Insurance is a financial product that provides protection against certain risks in exchange for payment of premiums. It involves a contract between an individual or business (the insured) and an insurance company (the insurer).
 

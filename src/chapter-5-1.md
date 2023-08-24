@@ -1,4 +1,3 @@
-# What is ChatGPT?
 
 ChatGPT is an AI-powered chatbot that uses natural language processing and machine learning algorithms to provide personalized recommendations and assistance to customers in the insurance industry. It was developed by OpenAI, a leading research organization focused on advancing artificial intelligence.
 
