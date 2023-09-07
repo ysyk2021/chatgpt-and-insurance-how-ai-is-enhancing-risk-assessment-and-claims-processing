@@ -16,3 +16,7 @@ In the following chapters, we will delve into topics such as:
 By the end of this book, you will have a solid understanding of the latest AI technologies and their applications in insurance. You will be equipped with practical tools and strategies for integrating AI into your workflows, enhancing risk assessment and claims processing, and improving overall efficiency and customer satisfaction. So let us begin this journey towards a new era of insurance, powered by AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
