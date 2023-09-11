@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Risk Assessment and Claims Processing
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Risk assessment and claims processing are critical functions in the insurance industry. The integration of AI technologies like ChatGPT introduces new factors that can influence these processes. This chapter explores some of the key factors that affect risk assessment and claims processing and discusses their implications.
 

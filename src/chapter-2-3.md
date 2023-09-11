@@ -1,5 +1,4 @@
-Chapter: Importance of Insurance for Individuals and Businesses
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Insurance plays a critical role in safeguarding both individuals and businesses from financial risks and uncertainties. This chapter explores the significance of insurance and how it provides essential protection in various aspects of life and business operations.
 

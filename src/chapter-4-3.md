@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for Insurance Companies
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and chatbot technologies have revolutionized the insurance industry, providing numerous benefits to insurance companies. This chapter explores the key advantages of using AI and chatbots in risk assessment and claims processing.
 

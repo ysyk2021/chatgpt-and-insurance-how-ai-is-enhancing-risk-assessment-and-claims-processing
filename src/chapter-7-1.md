@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Insurance Industry with ChatGPT
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced artificial intelligence model, has the potential to drive significant advancements in the insurance industry. This chapter explores the various ways in which ChatGPT can revolutionize insurance processes and enhance customer experiences.
 

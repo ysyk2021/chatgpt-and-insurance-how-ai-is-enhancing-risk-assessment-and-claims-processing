@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the features and capabilities of ChatGPT, an advanced AI model that is transforming risk assessment and claims processing in the insurance industry.
 

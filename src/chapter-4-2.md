@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Enhance Risk Assessment and Claims Processing
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI and chatbot technologies have transformed the insurance industry, revolutionizing risk assessment and claims processing. This chapter explores how AI and chatbots can enhance these crucial areas, leading to improved efficiency, accuracy, and customer satisfaction.
 

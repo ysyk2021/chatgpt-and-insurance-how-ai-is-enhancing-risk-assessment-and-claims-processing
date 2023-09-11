@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has transformed various industries, including insurance, by enhancing risk assessment and claims processing. One key application of AI in the insurance industry is the use of ChatGPT-powered chatbots. In this chapter, we will provide an introduction to AI and chatbots, specifically focusing on their significance in the insurance sector.
 

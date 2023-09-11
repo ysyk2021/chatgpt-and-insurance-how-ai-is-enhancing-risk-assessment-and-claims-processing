@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced AI language model developed by OpenAI. It belongs to the GPT (Generative Pre-trained Transformer) family of models and is designed to understand and generate human-like text responses. ChatGPT utilizes deep learning techniques and massive amounts of training data to generate coherent and contextually relevant responses in natural language.
 

@@ -1,5 +1,4 @@
-Chapter: Different Types of Insurance
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Insurance encompasses a wide range of coverage types, each designed to address specific risks and provide financial protection. This chapter explores various types of insurance that individuals and businesses can obtain to mitigate potential losses.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Enhance Risk Assessment and Claims Processing
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence, specifically ChatGPT, has the potential to revolutionize the insurance industry by enhancing risk assessment and claims processing. This chapter explores how ChatGPT can be leveraged to improve these crucial aspects of the insurance workflow.
 

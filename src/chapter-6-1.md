@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Insurance Industry
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing ChatGPT-powered chatbots in the insurance industry can revolutionize risk assessment and claims processing, leading to improved customer experiences and operational efficiency. This chapter outlines the key steps involved in implementing ChatGPT in the insurance sector.
 

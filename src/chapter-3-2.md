@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Insurance Companies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Insurance companies face various challenges in adopting AI technologies like ChatGPT to enhance risk assessment and claims processing. This chapter discusses some of the common challenges and provides insights into addressing them effectively.
 

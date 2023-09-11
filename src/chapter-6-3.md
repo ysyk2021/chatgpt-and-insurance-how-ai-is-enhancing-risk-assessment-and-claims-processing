@@ -1,5 +1,4 @@
-Chapter: Case Studies of Insurance Companies that have Successfully Implemented ChatGPT for Risk Assessment and Claims Processing
-=================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Several insurance companies have successfully leveraged ChatGPT-powered chatbots to enhance risk assessment and streamline claims processing. In this chapter, we will explore some case studies illustrating the benefits of ChatGPT implementation in the insurance industry.
 

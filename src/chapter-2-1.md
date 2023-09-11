@@ -1,5 +1,4 @@
-Chapter: Definition of Insurance
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Insurance is a financial mechanism designed to protect individuals, businesses, or organizations against potential risks and unexpected events. It provides a means for transferring the financial burden of uncertain outcomes to an insurance company in exchange for regular premium payments.
 

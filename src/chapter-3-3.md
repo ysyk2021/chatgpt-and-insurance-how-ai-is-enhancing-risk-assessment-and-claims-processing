@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Customer Satisfaction
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The emerging trends and challenges faced by the insurance industry in integrating AI, such as ChatGPT, can significantly influence customer satisfaction. This chapter explores the impact of these challenges on customer satisfaction and provides insights into mitigating potential negative effects.
 

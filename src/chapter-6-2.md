@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Customer Satisfaction
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT and other AI technologies have revolutionized the insurance industry by enhancing risk assessment and claims processing. An integral aspect of leveraging ChatGPT is utilizing it effectively to improve customer satisfaction. In this chapter, we will explore some best practices that insurance companies can follow to ensure optimal customer experience when using ChatGPT-powered chatbots.
 

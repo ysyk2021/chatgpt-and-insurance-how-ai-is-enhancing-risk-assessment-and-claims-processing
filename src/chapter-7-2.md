@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the Insurance Industry and ChatGPT
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the emerging trends and challenges that both the insurance industry and ChatGPT face in their journey towards enhanced risk assessment and claims processing.
 
